@@ -33,4 +33,4 @@ dependencies = [
 name = "rethinkdb_pandas"
 
 [project.urls]
-Home = "https://github.com/somehitDev/rethinkdb_pandas"
+repository = "https://github.com/somehitDev/rethinkdb_pandas"
